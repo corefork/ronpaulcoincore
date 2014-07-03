@@ -1,0 +1,9 @@
+--- 
+name: ronpaulcoin
+urls:
+- http://ronpaulcoin.co/ronpaulcoin-latest-linux-gitian.zip
+rss:
+- url: http://sourceforge.net/api/file/index/project-id/244765/mtime/desc/limit/100/rss
+  xpath: //item/link/text()
+  pattern: ronpaulcoin-\d+.\d+.\d+-linux-gitian.zip
+minimum_weight: 120

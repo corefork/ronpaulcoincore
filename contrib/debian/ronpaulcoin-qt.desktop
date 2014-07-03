@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=RonPaulCoin
+Comment=RonPaulCoin P2P Cryptocurrency
+Comment[fr]=RonPaulCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=RonPaulCoin, eşten eşe kriptografik sanal para birimi
+Exec=ronpaulcoin-qt %u
+Terminal=false
+Type=Application
+Icon=ronpaulcoin128
+MimeType=x-scheme-handler/ronpaulcoin;
+Categories=Office;Finance;

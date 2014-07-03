@@ -1,0 +1,6 @@
+ronpaulcoin-qt usr/bin
+share/pixmaps/ronpaulcoin32.xpm usr/share/pixmaps
+share/pixmaps/ronpaulcoin16.xpm usr/share/pixmaps
+share/pixmaps/ronpaulcoin128.png usr/share/pixmaps
+debian/ronpaulcoin-qt.desktop usr/share/applications
+debian/ronpaulcoin-qt.protocol usr/share/kde4/services/
